@@ -1,0 +1,12 @@
+.card{
+    width:200px;
+    height:auto;
+    border-radius: 10px;
+}
+.upper{
+    display:flex;
+
+}
+.upper img{
+    width:30%;
+}
